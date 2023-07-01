@@ -12,7 +12,11 @@ const toasts = {
   },
   error: {
     icon: '<i class="fa-solid fa-bug"></i>',
+<<<<<<< HEAD
     message: "This is error message",
+=======
+    message: "This is warning message",
+>>>>>>> aec6172941bb1ef9b2adffea6307ed60a4ff87e7
   },
 };
 
